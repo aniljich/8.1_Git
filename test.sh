@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 
 declare -i PORT=80
 declare -a INDEX="/var/www/html/index.html"
