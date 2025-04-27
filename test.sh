@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#Comment to simulate a conflict
+
 declare -i PORT=80
 declare -a INDEX="/var/www/html/index.html"
 
