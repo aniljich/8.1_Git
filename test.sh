@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script checks if a web server is running on port 80 and if the index.html file exists in the specified directory.
+#Comment to simulate a conflict
 
 declare -i PORT=80
 declare -a INDEX="/var/www/html/index.html"
